@@ -17,7 +17,7 @@ def google_img_downloader():
         # min_size=(1000, 1000),
         overwrite=True,
         # filters=filters,
-        file_idx_offset='auto',
+        # file_idx_offset='auto',
     )
 
 
